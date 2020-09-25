@@ -1,0 +1,20 @@
+.container{
+  height: 100px;
+  width: 200px;
+}
+
+#button1{
+background-image: linear-gradient(#562e84, #5b809e, #d24b90);
+}
+
+#button2{
+background-image: radial-gradient(#FE1AA1, #1ECEF7, #FBE840);
+}
+
+#button3{
+background-image: linear-gradient(to right, red , yellow);
+}
+
+#button4{
+background-image: linear-gradient(to left, red , yellow);
+}
